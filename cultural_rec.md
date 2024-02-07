@@ -1,1 +1,1 @@
-I am currently watching Brother Sun on Netflix
+Brother Sun on Netflix
