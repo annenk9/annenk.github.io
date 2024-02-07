@@ -1,3 +1,3 @@
 # annenk9.github.io
 
-annenk9.github.io/cultural_rec
+[Culture recommendation](./cultural_rec.md)
